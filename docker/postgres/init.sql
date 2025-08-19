@@ -1,0 +1,5 @@
+-- Optionally seed postgres database here
+-- Example:
+-- CREATE DATABASE laravel;
+-- CREATE USER laravel WITH ENCRYPTED PASSWORD 'secret';
+-- GRANT ALL PRIVILEGES ON DATABASE laravel TO laravel;
